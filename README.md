@@ -1,5 +1,5 @@
 # 1.15
-Dockerfile:
+Dockerfile example:
 
 <code>FROM node:14-alpine
 COPY . .
